@@ -9,6 +9,7 @@ function assignSlotId() {
 			slotsUsed |= (1 << i);
 			return i;
 		}
+	Data congif.lua 
 	}
 
 	return -1;
